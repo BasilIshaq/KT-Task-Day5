@@ -1,0 +1,27 @@
+{
+  "name": "student-management-fullstack",
+  "version": "1.0.0",
+  "description": "Student Management System - Full Stack (Netlify Ready)",
+  "scripts": {
+    "dev:backend": "node server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm install && npm run build",
+    "install:all": "npm install && cd frontend && npm install"
+  },
+  "keywords": [
+    "student",
+    "management",
+    "crud",
+    "express",
+    "react",
+    "netlify"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "mongoose": "^7.5.0",
+    "cors": "^2.8.5"
+  }
+}

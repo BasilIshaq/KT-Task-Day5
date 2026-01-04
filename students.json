@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "age": 21,
+    "course": "Advanced Computer Science",
+    "enrollmentDate": "2023-09-01"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "age": 21,
+    "course": "Information Technology",
+    "enrollmentDate": "2023-09-01"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "email": "david@example.com",
+    "age": 22,
+    "course": "Cyber Security",
+    "enrollmentDate": "2023-09-10"
+  },
+  {
+    "id": 5,
+    "name": "Emma Davis",
+    "email": "emma@example.com",
+    "age": 20,
+    "course": "Computer Science",
+    "enrollmentDate": "2023-09-15"
+  },
+  {
+    "id": 6,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "age": 23,
+    "course": "Information Technology",
+    "enrollmentDate": "2026-01-02"
+  }
+]
