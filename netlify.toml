@@ -1,6 +1,6 @@
 [build]
   # Build the frontend from the frontend directory
-  command = "cd frontend && rm -f package-lock.json && npm install && npm run build"
+  command = "cd frontend && npm install && npm run build"
   # Publish the built frontend
   publish = "frontend/dist"
 
